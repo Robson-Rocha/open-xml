@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobsonRocha.Exemplos.OpenXml", "RobsonRocha.Exemplos.OpenXml\RobsonRocha.Exemplos.OpenXml.csproj", "{66774765-C96B-4415-AC05-2827EB7C432A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobsonRocha.Exemplos.OpenXml.Tests", "RobsonRocha.Exemplos.OpenXml.Tests\RobsonRocha.Exemplos.OpenXml.Tests.csproj", "{FD644B83-664B-4FA5-93B1-A2376542264C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66774765-C96B-4415-AC05-2827EB7C432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66774765-C96B-4415-AC05-2827EB7C432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66774765-C96B-4415-AC05-2827EB7C432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66774765-C96B-4415-AC05-2827EB7C432A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD644B83-664B-4FA5-93B1-A2376542264C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD644B83-664B-4FA5-93B1-A2376542264C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD644B83-664B-4FA5-93B1-A2376542264C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD644B83-664B-4FA5-93B1-A2376542264C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258F6E55-A7E9-41EA-8FFF-DEDFF0AC9A67}
+	EndGlobalSection
+EndGlobal
